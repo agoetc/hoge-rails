@@ -1,24 +1,14 @@
 # README
+http://localhost:3030/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### setup
 
-Things you may want to cover:
+#### build
+`make build`
 
-* Ruby version
+#### up
+`make up`
 
-* System dependencies
+#### down 
+`make down`
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
